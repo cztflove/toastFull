@@ -13,5 +13,5 @@ toastFull是一个纯javascript实现的提示插件
 - new toastFull(opt)——实例化
 - alert(msg,[timer])
 - loadStart(msg)
-- loadFinishSuccess(msg)
+- loadFinishSuccess(msg) //以下两个方法需成对使用
 - loadFinishError(msg)
