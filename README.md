@@ -6,7 +6,7 @@ toastFull是一个纯javascript实现的提示插件
 
 ## 配置项
 - textColor——提示文字颜色
-- time——提示框停留时间
+- timer——提示框停留时间
 
 
 ## 方法
